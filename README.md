@@ -20,3 +20,17 @@ You can install the necessary dependencies using `pip`:
 
 ```bash
 pip install pyshark
+
+## **Usage**
+
+1. Clone or download this repository.
+   ```
+   git clone https://github.com/DivyTej/IP-Extractor.git
+   ```
+
+2. Place the .pcap or .pcapng file you want to analyze in the same directory or provide its full path.
+
+3. Run the script using the following command:
+   ```
+   python public_ip_extractor.py <path_to_pcap_file>
+   ```
